@@ -1,7 +1,0 @@
-langchain-text-splitters
-pandas
-pymupdf
-asyncio-contextmanager
-python-dotenv
-psycopg2-binary
-pgvector
